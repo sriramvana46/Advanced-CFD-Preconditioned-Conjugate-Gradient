@@ -2,8 +2,8 @@ This repository contains a solver for the steady-state two-dimensional conductio
 
 Key features:
 
-    Discretization leads to a system of equations in the form Ax=bAx=b.
+   Discretization leads to a system of equations in the form Ax=bAx=b.
 
-    Linear system solved with conjugate gradient (CG), preconditioned CG with Jacobi, ILU, and SIP preconditioners.
+   Linear system solved with conjugate gradient (CG), preconditioned CG with Jacobi, ILU, and SIP preconditioners.
 
-    Residual 22-norm stopping criterion: 10−610−6.
+   Residual 22-norm stopping criterion: 10−610−6.
